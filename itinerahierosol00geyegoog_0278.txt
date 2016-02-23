@@ -1,0 +1,6 @@
+P = codex Parisinus 13048 s, Ix
+Y = codex Vindobonensis 458 s. X
+
+Z = codex Turicinus 73 s. X
+Br = codex Bnuellensis 29211'22 s. ΙΧ
+
